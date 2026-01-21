@@ -1,6 +1,6 @@
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/9083df1a-48ae-4810-b5da-28e70f6a4ff9" /># Food Ordering Project 
+# Food Ordering Project 
 
-Episode-04 | Talk is Cheap, Show Me the Code
+## Episode-04 | Talk is Cheap, Show Me the Code
 - Built a Food Ordering App
     - AppLayout
     - Header Component with Logo, Nav Items and Cart
