@@ -13,3 +13,5 @@ Episode-04 | Talk is Cheap, Show Me the Code
     - Used "key", passed in map() to ensure that the existing restaurant Card doesn't render every time a new Restaurant is added in the Restaurant List.
         - Key is used to identify the DOM elements
         - Best Practice: Use unique ID over indexes as key
+    - Result: ![Uploading image.png…]()
+
