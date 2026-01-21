@@ -1,6 +1,6 @@
 # Food Ordering Project 
 
-Episode-04 | Talk is Cheap, Show Me the Code
+## Episode-04 | Talk is Cheap, Show Me the Code
 - Built a Food Ordering App
     - AppLayout
     - Header Component with Logo, Nav Items and Cart
@@ -13,5 +13,7 @@ Episode-04 | Talk is Cheap, Show Me the Code
     - Used "key", passed in map() to ensure that the existing restaurant Card doesn't render every time a new Restaurant is added in the Restaurant List.
         - Key is used to identify the DOM elements
         - Best Practice: Use unique ID over indexes as key
-    Result:
-    ![alt text](image.png)
+    - Result: <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/647bdd86-fb5e-40ab-a0b3-b63ff5e0e8f1" />
+
+
+
