@@ -15,5 +15,11 @@
         - Best Practice: Use unique ID over indexes as key
     - Result: <img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/647bdd86-fb5e-40ab-a0b3-b63ff5e0e8f1" />
 
+## Episode-05 | Let's Get Hooked
+- Folder Structure Improved
+- Exported (named and default) and Imported Files
+- Filter Button added
+- Learnt about actual DOM and virtual DOM
+- Reconcilation | React Fiber | Diff Algorithm
 
 
