@@ -37,3 +37,11 @@
 .search{
     padding: 10px;
 }
+.filter-search-container{
+    padding: 5px;
+    display: flex;
+}
+.filter-btn{
+    padding: 10px;
+    text-align: center;
+}
